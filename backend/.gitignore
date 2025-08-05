@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env
+node_modules/ # 如果前端也放在同仓库
+__pycache__/
+*.py[cod]
+dev.db

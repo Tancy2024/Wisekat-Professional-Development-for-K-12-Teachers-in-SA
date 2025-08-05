@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+python-multipart
+replicate
+python-dotenv
+openai
+sqlalchemy
+alembic
+aiosqlite
+PyJWT
+greenlet
